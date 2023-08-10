@@ -10,7 +10,7 @@
 - Системы управления базами данных:  ``PostgreSQL``
 
 ## Проекты
-> <a href="[https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://github.com/pro6661/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961.xlsx)">Ссылка на проект</a>
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://github.com/pro6661/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961.xlsx">Ссылка на проект</a>
 <p> Проект 1: Калькулятор юнит-экономики онлайн-кинотеатра</p>
 <p>Что нужно было сделать:<p>
 <ol>
